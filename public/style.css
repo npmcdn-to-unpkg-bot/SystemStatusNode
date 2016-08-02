@@ -1,0 +1,12 @@
+.control-option {
+    margin:5px;
+}
+
+.control-option > label {
+    display:block;
+}
+
+.control-option > input {
+    width: 150px;
+    margin-bottom:10px;
+}
